@@ -1,0 +1,76 @@
+Queue : < | 1 4 5 7>
+Stack : <6 5 1 3 | 2>
+Queue : < | 1 4 5 7 9>
+Stack : <6 5 1 3 | 2>
+-1
+Queue : < | 4 5 7 9>
+Stack : <6 5 1 3 | 2>
+1
+Queue : <>
+Stack : <6 5 1 3 | 2>
+1
+Cannot dequeue from empty queue.
+Queue : <>
+Stack : <6 5 1 3 | 2>
+0
+Queue : < | 3>
+Stack : <6 5 1 3 | 2>
+-1
+Queue : < | 3>
+Stack : <6 5 1 3 | 2>
+1
+Queue : < | 3>
+Stack : <6 5 1 3 | 2>
+3
+Queue : < | 3 6>
+Stack : <6 5 1 3 | 2>
+-1
+Queue : < | 3 6>
+Stack : <6 5 1 3 | 2>
+6
+Queue : < | 3 6 9>
+Stack : <6 5 1 3 | 2>
+-1
+Queue : < | 3 6>
+Stack : <6 5 1 3 | 2>
+9
+Queue : < | 3 6>
+Stack : <6 5 1 3 2 | 7>
+-1
+Queue : < | 3 6>
+Stack : <>
+-1
+Cannot pop from empty stack
+Queue : < | 3 6>
+Stack : <>
+0
+Queue : < | 3 6>
+Stack : <| 3>
+-1
+Queue : < | 3 6>
+Stack : <3 | 7>
+-1
+Queue : < | 3 6>
+Stack : <3 | 7>
+2
+Queue : < | 3 6>
+Stack : <3 | 7>
+7
+Queue : <>
+Stack : <3 | 7>
+7
+Queue : <>
+Stack : <>
+-1
+Queue : < | 9>
+Stack : <>
+-1
+Queue : <>
+Stack : <>
+9
+Queue : <>
+Stack : <| 2>
+-1
+Queue : <>
+Stack : <>
+2

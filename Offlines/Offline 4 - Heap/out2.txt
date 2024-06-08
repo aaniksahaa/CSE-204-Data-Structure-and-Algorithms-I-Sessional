@@ -1,0 +1,33 @@
+Printing the binary heap …
+- - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - -
+Heap is empty
+Heap is empty
+INSERTED 16
+INSERTED 4
+INSERTED 8
+INSERTED 2
+INSERTED 5
+Printing the binary heap …
+- - - - - - - - - - - - - - - - - - - -
+Level 0: 2
+Level 1: 4 8
+Level 2: 16 5
+- - - - - - - - - - - - - - - - - - - -
+ExtractMin returned 2
+FindMin returned 4
+Printing the binary heap …
+- - - - - - - - - - - - - - - - - - - -
+Level 0: 4
+Level 1: 5 8
+Level 2: 16
+- - - - - - - - - - - - - - - - - - - -
+New key must be lower than the previous key
+Key is absent in heap
+Key is absent in heap
+Printing the binary heap …
+- - - - - - - - - - - - - - - - - - - -
+Level 0: 3
+Level 1: 4 8
+Level 2: 5
+- - - - - - - - - - - - - - - - - - - -

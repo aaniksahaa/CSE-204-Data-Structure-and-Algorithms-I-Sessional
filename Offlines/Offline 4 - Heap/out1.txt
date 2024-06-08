@@ -1,0 +1,61 @@
+INSERTED 7
+INSERTED 10
+INSERTED 5
+INSERTED 8
+Printing the binary heap …
+- - - - - - - - - - - - - - - - - - - -
+Level 0: 5
+Level 1: 8 7
+Level 2: 10
+- - - - - - - - - - - - - - - - - - - -
+INSERTED 12
+INSERTED 15
+Printing the binary heap …
+- - - - - - - - - - - - - - - - - - - -
+Level 0: 5
+Level 1: 8 7
+Level 2: 10 12 15
+- - - - - - - - - - - - - - - - - - - -
+Printing the binary heap …
+- - - - - - - - - - - - - - - - - - - -
+Level 0: 3
+Level 1: 8 5
+Level 2: 10 12 7
+- - - - - - - - - - - - - - - - - - - -
+FindMin returned 3
+ExtractMin returned 3
+Printing the binary heap …
+- - - - - - - - - - - - - - - - - - - -
+Level 0: 5
+Level 1: 8 7
+Level 2: 10 12
+- - - - - - - - - - - - - - - - - - - -
+ExtractMin returned 5
+ExtractMin returned 7
+Printing the binary heap …
+- - - - - - - - - - - - - - - - - - - -
+Level 0: 8
+Level 1: 10 12
+- - - - - - - - - - - - - - - - - - - -
+ExtractMin returned 8
+ExtractMin returned 12
+Printing the binary heap …
+- - - - - - - - - - - - - - - - - - - -
+Level 0: 10
+- - - - - - - - - - - - - - - - - - - -
+ExtractMin returned 10
+Printing the binary heap …
+- - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - -
+Heap is empty
+Heap is empty
+INSERTED 4
+INSERTED 12
+INSERTED 29
+INSERTED 31
+Printing the binary heap …
+- - - - - - - - - - - - - - - - - - - -
+Level 0: 4
+Level 1: 12 29
+Level 2: 31
+- - - - - - - - - - - - - - - - - - - -
